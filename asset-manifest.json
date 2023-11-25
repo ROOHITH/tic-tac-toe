@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ROOHITH/tic-tac-toe/static/css/main.337c2937.css",
+    "main.js": "/ROOHITH/tic-tac-toe/static/js/main.629349fa.js",
+    "static/js/787.4bc435fe.chunk.js": "/ROOHITH/tic-tac-toe/static/js/787.4bc435fe.chunk.js",
+    "static/media/logo.svg": "/ROOHITH/tic-tac-toe/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ROOHITH/tic-tac-toe/index.html",
+    "main.337c2937.css.map": "/ROOHITH/tic-tac-toe/static/css/main.337c2937.css.map",
+    "main.629349fa.js.map": "/ROOHITH/tic-tac-toe/static/js/main.629349fa.js.map",
+    "787.4bc435fe.chunk.js.map": "/ROOHITH/tic-tac-toe/static/js/787.4bc435fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.337c2937.css",
+    "static/js/main.629349fa.js"
+  ]
+}
