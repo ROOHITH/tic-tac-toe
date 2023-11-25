@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.sqaure{
+  width: 100px;
+  height: 100px;
+  min-height: 100px;
+font-size: 30px;
+}
+
+.board{
+  
+  position: relative;
+
+  left: 50%;
+ 
+}
